@@ -1,5 +1,5 @@
 # 14
-This project generates a trading signal using short and long moving average, based on the crossover, then using an SVM model and logistic regression.
+This project generates a trading signal using short and long moving average, then compares cumulative returns using an SVM model and logistic regression.
 
 Technologies The project is written in python 3.9 and uses the pandas, numpy, matplotlib, pathlib, hvplot and sklearn.
 
